@@ -32,6 +32,11 @@ This guide explains how to build an AI-powered conversational agent using **Vert
 - [🔗 Additional Resources](#-additional-resources)
   
 - [📬 Contact](#-contact)
+<hr> 
+
+## 📝 Notion Documentation
+
+[Building a Travel Assistant AI Agent using Vertex AI Agent Builder](https://shining-buffet-929.notion.site/Building-a-Travel-Assistant-AI-Agent-using-Vertex-AI-Agent-Builder-217e8249092f8063bbb7c48203a96779?source=copy_link)
 
 ## 🔧 Getting Started
 
